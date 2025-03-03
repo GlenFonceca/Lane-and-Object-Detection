@@ -88,6 +88,14 @@ Ensure these packages are installed in your environment.
 
 This project utilizes open-source computer vision libraries and is inspired by various tutorials and research papers in the field of autonomous driving and computer vision.
 
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [Alson Mathias](https://github.com/alsonmathias) 
+- [Dheeraj D Nayak](https://github.com/dheerajnayakk) 
+- [Anush Shetty](https://github.com/anushshetty20)
+
 ## License
 
 This project is open-source and available under the MIT License.
