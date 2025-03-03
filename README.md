@@ -48,10 +48,12 @@ By default, the video input path is set in the code. If you want to use a differ
 Here are some example results of the lane and object detection system:
 
 ### Lane Detection Output
-![Lane Detection](results/lane_detection.png)
+![Lane Detection](results/lane_detection1.png)
+![Lane Detection](results/lane_Detection2.png)
 
 ### Object Detection Output
-![Object Detection](results/object_detection.png)
+![Object Detection](results/cars_detection.png)
+![Object Detection](results/lane_and_object_combined.png)
 
 ## Dependencies
 
